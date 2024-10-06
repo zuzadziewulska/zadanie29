@@ -5,3 +5,5 @@ function sum(number1, number2){
     let suma = number1 + number2;
     return suma;
 }
+
+console.log(sum(firstNumber, secondNumber));
